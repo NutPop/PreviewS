@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from 'next/link';
 import LogorinaImage from './Logorina.jpg';
-import discordIcon from './discord.jpg';
 import telegramIcon from './telegram.png';
 import contactBg from './contactBg.jpg'; // เพิ่มรูปภาพพื้นหลัง
 export default function Home() {
