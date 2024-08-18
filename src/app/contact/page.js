@@ -91,11 +91,6 @@ export default function Home() {
             <h2>ช่องทางการติดต่ออื่นๆ</h2>
             <ul style={{ listStyle: 'none', padding: 0, display: 'flex', justifyContent: 'center' }}>
               <li style={{ margin: '0 15px' }}>
-                <a href="https://discord.gg/your-discord-link" target="_blank" rel="noopener noreferrer">
-                  <Image src={discordIcon} alt="Discord" width={50} height={50} />
-                </a>
-              </li>
-              <li style={{ margin: '0 15px' }}>
                 <a href="https://t.me/your-telegram-link" target="_blank" rel="noopener noreferrer">
                   <Image src={telegramIcon} alt="Telegram" width={50} height={50} />
                 </a>
